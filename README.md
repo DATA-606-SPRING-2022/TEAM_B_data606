@@ -1,4 +1,4 @@
-# Lung Cancer Prediction
+# Lung Cancer Prediction - Group B
 by Sai Divyanjali Muddasani and Rohith Ram Maringanti
 ## Idea
   &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; Machine learning has influenced the health care sector today because of its strong computational potential for early disease prediction with reliable data analysis. Although there is immense awareness on lung diseases, lung cancer is still a major reason for deaths among many individuals. Lung cancer is caused by the uncontrolled development of cells in the lungs. It affects men, women, smokers, and non-smokers. This is the primary reason why we are interested in developing a predictive model which tells us the level of intensity we are prone to with respect to lung cancer based on the symptoms. <br>
