@@ -42,8 +42,12 @@ The primary role of the project is to determine if a case status would be approv
 - Visualizing the results using Plotly. 
 - Project has very good scope in visualization and will include sophisticated visualization techniques using Plotly.  
 
+
+## Deployment
+Planning to create a webpage for deployment of the model using ‘streamlit’. By the development of the model, it would be easy for end user to utilize the application. Users can predict their chances of their of being certified or denied. The project will be very useful for individuals who are planning to relocate to US. It will be highly helpful for thousands of graduates every year in knowing if the company that they received offer from sponspors H1B or not. End users can access the data using the web page developed in streamlit.  
+
 ## Work Distribution
-<b>Divya</b><br><br>
+<br><b>Divya</b><br><br>
 - Data preprocessing steps - Cleaning the data, handling missing values, eliminating unwanted rows and columns.
 - Indexing categorical values. 
 - Determining the insights of the data with respect to wage, home country of applicants and employers. 
@@ -58,6 +62,3 @@ The primary role of the project is to determine if a case status would be approv
 - Using Standard Scalar
 - Building Random Forest and implementing another best algorithm suggested by lazy predict.
 - Deploy Web Page 2 - Machine learning model with outcome prediction in streamlit. 
-
-## Deployment
-Planning to create a webpage for deployment of the model using ‘streamlit’. By the development of the model, it would be easy for end user to utilize the application. Users can predict their chances of their of being certified or denied. The project will be very useful for individuals who are planning to relocate to US. It will be highly helpful for thousands of graduates every year in knowing if the company that they received offer from sponspors H1B or not. End users can access the data using the web page developed in streamlit.  
