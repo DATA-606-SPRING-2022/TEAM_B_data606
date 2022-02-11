@@ -1,33 +1,40 @@
-# Lung Cancer Prediction - Team B
+# H1B Case Status Analysis - Team B
 by Sai Divyanjali Muddasani and Rohith Ram Maringanti
 ## Idea
-  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; Machine learning has influenced the health care sector today because of its strong computational potential for early disease prediction with reliable data analysis. Although there is immense awareness on lung diseases, lung cancer is still a major reason for deaths among many individuals. Lung cancer is caused by the uncontrolled development of cells in the lungs. It affects men, women, smokers, and non-smokers. This is the primary reason why we are interested in developing a predictive model which tells us the level of intensity we are prone to with respect to lung cancer based on the symptoms. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Knowing the level of severity beforehand, one can use necessary steps to either avoid activities that lead to the disease or take preventive measures in dealing with the severity. The model would take the data from patients who were suffering from lung cancer to predict the outcomes of other patients. Each patient's risk of lung cancer will be classed as 'high,' 'low,' or 'medium.' The information also reveals the link between other characteristics of lung cancer, such as smoking habits, obesity, etc. 
-## What questions do you have in mind and would like to answer?
-- How prone a particular individual is to lung cancer?
-- Does gender affect severity in lung cancer?
-- Does smoking cause lung diseases?
-- Does age influence symptoms of Lung Cancer?
-## Data
-The data retrieved is a survey of patients who suffer from lung diseases. The data is collected from ‘data.world’ which is a legitimate and trustable source. The size of the data is nearly 2MB with data related to 1000 patients. Hence, there are 1000 rows in the data with 25 columns each including a symptom of lung cancer. Each patient disclosed the intensity of a symptom on a scale of 1-10. Few attributes of the data are as follows.
-<br><br>
-patient_id<br>
-age<br>
-gender<br>
-air_pollution<br>
-alcohol_use<br>
-dust_allergy<br>
-balanced_diet<br>
-obesity<br>
-smoking<br>
-passive_smoker etc. <br><br>
+  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; H1B visa is a permit to work for non-immigrant temporary workers in United States. An employer files a petition on behalf of an employee. Every year, there are thousands of applicants for H1B out of which only few gets approved. Most of the international students who complete their masters land in their dream job. Many individuals who work for companies in their home countries get a chance to work in USA through H1B. Hence, many applicants eagerly wait to know if there application would be approved. Our project aims to determine the chances of a case being approved or denied based upon the data from 2015-2020. 
 
-Dataset: https://data.world/cancerdatahp/lung-cancer-data <br><br>
+## Data
+The data retrieved from the official government website - Department of Labor. The data is disclosed every year after the individuals file their applications. We are considering the data of 5 years (2015-2020). The latest data will give us most updated case scenarios which will help in making better predictions. The data contains case files corresponding to 190,000 applicants over 5 years. The data contains information which constitutes few important attributes as follows.    
+<br><br>
+EMPLOYER_NAME : (String Type) The company which sponsors H1B for the applicants. <br>
+EMPLOYER_PROVINCE : (String Type) The state in which employee works <br>
+SOC_TITLE : (String Type) The field of work type. Ex: Software, Accountants, Mechanical etc.<br>
+SOC_CODE : (String Type) The code related to each job field<br>
+SOC_TITLE : (String Type) Job Designation of individuals<br>
+WAGE : (Integer Type) Annual income of employers <br>
+MINIMUM_EDUCATION : (String Type) High School, Bachelors or Masters <br>
+MAJOR_FIELD_OF_STUDY : (String Type) Applicant's academic major<br>
+COUNTRY_OF_CITIZENSHIP : (String Type) Applicant's Home Country <br>
+FULL_TIME_POSITION : (String Type) Job type - Full time or Contract type
+<br><br>
+The data acquired is in raw format with many missing values and irrelevant columns. Thorough Preprocessing of data is required to implement machine learning algorithms. 
+<br><br>
+Dataset: https://www.dol.gov/agencies/eta/foreign-labor/performance <br><br>
+
+## What questions do you have in mind and would like to answer?
+The primary role of the project is to determine if a case status would be approved or denied. We would like to explore the data with respect to attributes such as type of job field, annual income of the employee, province of work location etc. Our project would also answer additional questions for H1B aspirants such as<br>
+- Which state has high percentage of H1B applications certified? 
+- What is the average wage of H1B certified employees. 
+- Which job fields have higher preference?
+- Does Full time position affect the decision?
+- Which job titles have high risk of application being denied?
+
 ## Techniques
 - Planning to implement classification algorithms such as Linear Discriminant Analysis, KNN classifier and Gaussian NB.
 - Implementing grid search for optimal parameter selection.
 - Determining confusion matrix, accuracy score, RSME value and other support metrics such as precision recall and F1. 
-- Visualizing the results using Tableau or PowerBI. 
+- Visualizing the results using Plotly. 
+- Project has very good scope in visualization and will include sophisticated visualization techniques using Plotly.  
 
 ## Deployment
-Planning to create a webpage for deployment of the model using ‘streamlit’. By the development of the model, it would be easy for end user to utilize the application. Users can rate themselves for the symptoms of lung diseases and predict if the level of severity of lung cancer is high, medium or low. In this way, users can take preventive measures in avoiding daily habits which lead to lung cancer.
+Planning to create a webpage for deployment of the model using ‘streamlit’. By the development of the model, it would be easy for end user to utilize the application. Users can predict their chances of their of being certified or denied. The project will be very useful for individuals who are planning to relocate to US. It will be highly helpful for thousands of graduates every year in knowing if the company that they received offer from sponspors H1B or not. End users can access the data using the web page developed in streamlit.  
