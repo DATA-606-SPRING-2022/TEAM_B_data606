@@ -37,9 +37,27 @@ The primary role of the project is to determine if a case status would be approv
 - KNN Classifier works well in making real time predictions. It is very important to scale all features to the same level. Hence, will use standard scalar technique while building a model with KNN. 
 - Implementing grid search for optimal parameter selection.
 - Building an ensemble model such as Random Forest which reduces variance in the data. Random Forest will work well with the data if there is any possibility of overfitting. The data contains many categorical values and hence, working with Random Forest would be a better choice.
+- Will use lazy predict to find if any additional algorithms would work well with the given data. 
 - Determining confusion matrix, accuracy score, RSME value and other support metrics such as precision recall and F1. 
 - Visualizing the results using Plotly. 
 - Project has very good scope in visualization and will include sophisticated visualization techniques using Plotly.  
+
+## Work Distribution
+Divya<br>
+- Data preprocessing steps - Cleaning the data, handling missing values, eliminating unwanted rows and columns.
+- Indexing categorical values. 
+- Determining the insights of the data with respect to wage, home country of applicants and employers. 
+- Visualizing the plots with respect to employers and wages. 
+- Building Support Vector Machine and KNN Classifier
+- Deploy Webpage 1 - the visualizations of data in Streamlit. 
+<br><br>
+Rohith <br>
+- Initial analysis of data. Exploring the types of each columns. 
+- Finding insights in the data with respect to Province and Job Type. 
+- Visualization of plots with respect to Job titles, provinces using plotly
+- Using Standard Scalar
+- Building Random Forest and implementing another best algorithm suggested by lazy predict.
+- Deploy Web Page 2 - Machine learning model with outcome prediction in streamlit. 
 
 ## Deployment
 Planning to create a webpage for deployment of the model using ‘streamlit’. By the development of the model, it would be easy for end user to utilize the application. Users can predict their chances of their of being certified or denied. The project will be very useful for individuals who are planning to relocate to US. It will be highly helpful for thousands of graduates every year in knowing if the company that they received offer from sponspors H1B or not. End users can access the data using the web page developed in streamlit.  
