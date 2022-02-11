@@ -43,7 +43,7 @@ The primary role of the project is to determine if a case status would be approv
 - Project has very good scope in visualization and will include sophisticated visualization techniques using Plotly.  
 
 ## Work Distribution
-Divya<br>
+<b>Divya</b><br><br>
 - Data preprocessing steps - Cleaning the data, handling missing values, eliminating unwanted rows and columns.
 - Indexing categorical values. 
 - Determining the insights of the data with respect to wage, home country of applicants and employers. 
@@ -51,7 +51,7 @@ Divya<br>
 - Building Support Vector Machine and KNN Classifier
 - Deploy Webpage 1 - the visualizations of data in Streamlit. 
 <br><br>
-Rohith <br>
+<b>Rohith</b><br><br>
 - Initial analysis of data. Exploring the types of each columns. 
 - Finding insights in the data with respect to Province and Job Type. 
 - Visualization of plots with respect to Job titles, provinces using plotly
