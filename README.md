@@ -47,15 +47,14 @@ The primary role of the project is to determine if a case status would be approv
 Planning to create a webpage for deployment of the model using ‘streamlit’. By the development of the model, it would be easy for end user to utilize the application. Users can predict their chances of their of being certified or denied. The project will be very useful for individuals who are planning to relocate to US. It will be highly helpful for thousands of graduates every year in knowing if the company that they received offer from sponspors H1B or not. End users can access the data using the web page developed in streamlit.  
 
 ## Work Distribution
-<br><b>Divya</b><br><br>
+####Divya
 - Data preprocessing steps - Cleaning the data, handling missing values, eliminating unwanted rows and columns.
 - Indexing categorical values. 
 - Determining the insights of the data with respect to wage, home country of applicants and employers. 
 - Visualizing the plots with respect to employers and wages. 
 - Building Support Vector Machine and KNN Classifier
 - Deploy Webpage 1 - the visualizations of data in Streamlit. 
-<br><br>
-<b>Rohith</b><br><br>
+####Rohith
 - Initial analysis of data. Exploring the types of each columns. 
 - Finding insights in the data with respect to Province and Job Type. 
 - Visualization of plots with respect to Job titles, provinces using plotly
