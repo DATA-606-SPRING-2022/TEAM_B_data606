@@ -43,7 +43,7 @@ The primary role of the project is to determine if a case status would be approv
 - Project has very good scope in visualization and will include sophisticated visualization techniques using Plotly.  
 
 
-## Deployment
+## Deployment - Streamlit
 Planning to create a webpage for deployment of the model using ‘streamlit’. By the development of the model, it would be easy for end user to utilize the application. Users can predict their chances of their of being certified or denied. The project will be very useful for individuals who are planning to relocate to US. It will be highly helpful for thousands of graduates every year in knowing if the company that they received offer from sponspors H1B or not. End users can access the data using the web page developed in streamlit.  
 
 ## Work Distribution
