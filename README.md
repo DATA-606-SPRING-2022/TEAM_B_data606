@@ -81,8 +81,11 @@ Planning to create a webpage for deployment of the model using ‘streamlit’. 
 <br>
 - Plotted approvals vs denied from 2017 - 2021. Plotted subplots with multiple pie charts. 
 - Refer to the image below <br>
+
 ![image](https://user-images.githubusercontent.com/93351186/154819766-bb03554a-1cc4-49f6-8d6b-0071dbdb009a.png)
+
 <br>
+
 ## Next weeks
 - Find which states has highest number of approvals year-wise
 - Find which companies sponsers highest number of H-1Bs 
