@@ -82,7 +82,7 @@ Planning to create a webpage for deployment of the model using ‘streamlit’. 
 - Plotted approvals vs denied from 2017 - 2021. Plotted subplots with multiple pie charts. 
 - Refer to the image below <br>
 
-![image](https://user-images.githubusercontent.com/93351186/154819766-bb03554a-1cc4-49f6-8d6b-0071dbdb009a.png)
+- ![image](https://user-images.githubusercontent.com/93351186/154819766-bb03554a-1cc4-49f6-8d6b-0071dbdb009a.png)
 
 <br>
 
