@@ -76,6 +76,17 @@ Planning to create a webpage for deployment of the model using ‘streamlit’. 
 - Number of H-1B certified applications are increasing every year. 
 - In 2017, least number of H-1B applications were certified since Trump government implemented stringent immigration rules. 
 - In the recent past, number of H-1B applications nearly doubled to that of 2017. 
-- Refer to the image below
+- Refer to the image below <br>
 ![image](https://user-images.githubusercontent.com/93351186/154819652-5ed94486-fd21-428c-b2ba-10ef9e8a7932.png)
+<br>
+- Plotted approvals vs denied from 2017 - 2021. Plotted subplots with multiple pie charts. 
+- Refer to the image below <br>
+![image](https://user-images.githubusercontent.com/93351186/154819766-bb03554a-1cc4-49f6-8d6b-0071dbdb009a.png)
+<br>
+## Next weeks
+- Find which states has highest number of approvals year-wise
+- Find which companies sponsers highest number of H-1Bs 
+- Find if annual income has any influence on approvals
+- Which educational background has higher number of approvals
+- Job titles which have higher chances of approvals. 
 
