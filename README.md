@@ -61,6 +61,9 @@ Planning to create a webpage for deployment of the model using ‘streamlit’. 
 - Using Standard Scalar
 - Building Random Forest and implementing another best algorithm suggested by lazy predict.
 - Deploy Web Page 2 - Machine learning model with outcome prediction in streamlit. 
+<br>
+**********************************************************************************************
+<br>
 
 ## EDA - Phase 1
 - Imported necessary packages and covnerted the datasets into dataframes by using read_excel()
