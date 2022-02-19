@@ -61,3 +61,21 @@ Planning to create a webpage for deployment of the model using ‘streamlit’. 
 - Using Standard Scalar
 - Building Random Forest and implementing another best algorithm suggested by lazy predict.
 - Deploy Web Page 2 - Machine learning model with outcome prediction in streamlit. 
+
+## EDA - Phase 1
+- Imported necessary packages and covnerted the datasets into dataframes by using read_excel()
+- Note: Since the data is very large, it takes time to load dataframes. 
+- Extracting the required information from the data frame and concatinating dataframes of all years.
+- For every case filed, there are personal information such as employee_name, employee_address etc which are sensitive. Also, this data isn't necessary to analyze the data and implement a machine learning model. Hence, following data ethics, the columns containing sensitive information is not being considered. Required data is being extracted from the raw dataframe.
+- Appended the data of different years to have a holistic dataframe for 5 years
+- Filtered the cases which are 'withdrawn' and 'expired'
+- Eliminating small number of cases from the year 2016 (Since data from 2017-2021 is being considered for modelling)
+- Following uniform notations for state names. Data has different cell values for state referring to same state. Ex: California, CA
+- Hence, mapped such redundencies to uniform notations. 
+## Insights from the data
+- Number of H-1B certified applications are increasing every year. 
+- In 2017, least number of H-1B applications were certified since Trump government implemented stringent immigration rules. 
+- In the recent past, number of H-1B applications nearly doubled to that of 2017. 
+- Refer to the image below
+![image](https://user-images.githubusercontent.com/93351186/154819652-5ed94486-fd21-428c-b2ba-10ef9e8a7932.png)
+
