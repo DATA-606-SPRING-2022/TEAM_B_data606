@@ -95,5 +95,5 @@ Planning to create a webpage for deployment of the model using ‘streamlit’. 
 - Find which companies sponsers highest number of H-1Bs 
 - Find if annual income has any influence on approvals
 - Which educational background has higher number of approvals
-- Job titles which have higher chances of approvals. 
+- Job titles which have higher chances of approvals
 
