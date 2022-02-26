@@ -110,7 +110,7 @@ As seen in the earlier plot, highest H1B sponsorship corresponds to renowned est
 <b> Educational Background of employees </b><br><br>
 More than 90% of H1B applicants have either earned a Masters or a Bachelors degree. Most of the immigrants dream to study higher education in USA because of top notch facilities and faculty. Hence, the ratio is higher. Other educational backgrounds include Doctorate, High School grads etc. However, their proportion is very minimal compared to that of Masters and Bachelors. Masters quota is leading with 50.4% while the Bachelors quota has nearly 42% applications. Refer to the image below. 
 <br><br>
-![image](https://user-images.githubusercontent.com/93351186/155847993-fd4b24a5-2da8-4e33-8c95-d61263c9b2ac.png)
+![image](https://user-images.githubusercontent.com/93351186/155849465-537981a4-8edc-4019-b4eb-51d1cf9b7ddc.png)
 <br><br>
 
 <b> Job Title Statistics </b><br><br>
