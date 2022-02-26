@@ -119,8 +119,11 @@ To verify if the tendencies of H1B sponsors being software giants is true, let u
 ![image](https://user-images.githubusercontent.com/93351186/155848214-c06e46f5-49d2-4f46-9757-60ec6cddbc58.png)
 <br><br>
 
-
-
+<b> Where do the immigrants belong? </b><br><br>
+The data also includes countries of citizenship. Therefore, based upon this data, we can draw insights about the data of where these immigrants are coming from. As per the data, India is the leading country with utmost majority followed by China. As per the statistics, the population of India and China are very high. We can hence assume that the population dreaming about studying abroad is higher. Other top countries include Canada, South Korea etc. A choropleth map has been plotted to understand the results. Refer to the image below.
+<br><br>
+![image](https://user-images.githubusercontent.com/93351186/155848379-9e68dcd3-a500-4d6f-a78b-cd6280656804.png)
+<br><br>
 
 
 
