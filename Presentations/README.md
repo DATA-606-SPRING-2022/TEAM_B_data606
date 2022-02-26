@@ -1,1 +1,1 @@
-This file contains PPTs. 
+This folder contains PPTs. 
