@@ -80,7 +80,7 @@ Planning to create a webpage for deployment of the model using ‘streamlit’. 
 
 <b> Increasing H-1B approvals every year </b><br><br>
 Number of H-1B certified applications are increasing every year. In 2017, least number of H-1B applications were certified since Trump government implemented stringent immigration rules. The number of certified applications were almost same in the years 2019 and 2020. In the recent past, number of H-1B applications nearly doubled to that of 2017. With the given trend, we can come to the conclusion that number of certified cases will definitely increase leaps and bounds in the year 2022. Refer to the image below <br><br>
-![image](https://user-images.githubusercontent.com/93351186/154819652-5ed94486-fd21-428c-b2ba-10ef9e8a7932.png)
+![image](https://user-images.githubusercontent.com/93356110/155852667-3f44a3ce-e5d7-40d1-8f13-11650653abc5.png)
 <br><br>
 
 <b> Approval vs Denial every year</b><br><br>
