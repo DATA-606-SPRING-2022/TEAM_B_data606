@@ -89,12 +89,17 @@ Plotted approvals vs denied from 2017 - 2021. Plotted subplots with multiple pie
 ![image](https://user-images.githubusercontent.com/93351186/154819766-bb03554a-1cc4-49f6-8d6b-0071dbdb009a.png)
 <br><br>
 
+<b> States with highest certified H-1B cases</b><br><br>
+California has always been hub for the software industry providing job opportunities for majority of the immigrants. It has many companies which hire huge number of employees every year. Therefore, California is the state which has highest number of certified H-1B cases leading by a large margin. The state next to California is Texas with less than half approvals of California. Texas has always been a hub to foreigners, especially Indians. Majority of Indians living in US settle in either Texas or California. Other states among top 10 include New York, New Jersey, Washington, Virginia etc. Refer to the image below.
+<br><br>
+![image](https://user-images.githubusercontent.com/93356110/155847275-e503e8d0-2367-48de-99cb-64408366f606.png)
+<br><br>
+
+<b> Top Companies sponsoring H-1B </b><br><br>
+Tech Giants such as Microsoft, Google, Facebook, Amazon tops the list of H-1B sponsors. Along with such Product based companies, other Service based consulting companies which sponsor H-1Bs include Tata Consultancy Services, Infosys, Cognizant etc. All these established software companies have high H-1B sponsorship. If an individual gets a job in one of these companies, the probability of their H1B being sponsored would be very high. Refer to the image below.
+<br><br>
+![image](https://user-images.githubusercontent.com/93356110/155847466-8a78fbe4-4ace-4d65-9b41-63e0cf39d66f.png)
+<br><br>
 
 
-## Next weeks
-- Find which states has highest number of approvals year-wise
-- Find which companies sponsers highest number of H-1Bs 
-- Find if annual income has any influence on approvals
-- Which educational background has higher number of approvals
-- Job titles which have higher chances of approvals
 
