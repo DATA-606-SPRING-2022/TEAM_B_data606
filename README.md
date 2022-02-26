@@ -101,5 +101,29 @@ Tech Giants such as Microsoft, Google, Facebook, Amazon tops the list of H-1B sp
 ![image](https://user-images.githubusercontent.com/93356110/155847466-8a78fbe4-4ace-4d65-9b41-63e0cf39d66f.png)
 <br><br>
 
+<b> Does salary influence H1B approvals? </b><br><br>
+As seen in the earlier plot, highest H1B sponsorship corresponds to renowned established companies like Amazon, Microsoft, Google Apple etc. Undoubtedly, these companies offer best salaries in the industry. Almost every employee working in these companies receive salaries greater than 100k. Hence, H1B sponsorship for salaries greater than 100k is much higher compared to salaries less than 100k. To distinguish amongst various salary levels, dataset has been filtered multiple times corresponding to the salary range. Please refer to the image below. 
+<br><br>
+![image](https://user-images.githubusercontent.com/93351186/155847758-76f6b9dc-d626-4ed3-a546-9bc6f0047b0e.png)
+<br><br>
+  
+<b> Educational Background of employees </b><br><br>
+More than 90% of H1B applicants have either earned a Masters or a Bachelors degree. Most of the immigrants dream to study higher education in USA because of top notch facilities and faculty. Hence, the ratio is higher. Other educational backgrounds include Doctorate, High School grads etc. However, their proportion is very minimal compared to that of Masters and Bachelors. Masters quota is leading with 50.4% while the Bachelors quota has nearly 42% applications. Refer to the image below. 
+<br><br>
+![image](https://user-images.githubusercontent.com/93351186/155847993-fd4b24a5-2da8-4e33-8c95-d61263c9b2ac.png)
+<br><br>
+
+<b> Job Title Statistics </b><br><br>
+To verify if the tendencies of H1B sponsors being software giants is true, let us plot a graph corresponsing to job titles. If most of the jobs titles relate to software industry, our insights holds true. As per our estimate, job titles corresponding to Software Industry lead the race of H1B approvals. Majority of applicants are Software Developers. Other job titles include System Engineers, Data Analysts, Statisticians etc. Few other industries include Electronics, Mechanical and Accounting sectors. Refer to the image below.
+<br><br>
+![image](https://user-images.githubusercontent.com/93351186/155848214-c06e46f5-49d2-4f46-9757-60ec6cddbc58.png)
+<br><br>
+
+
+
+
+
+
+
 
 
