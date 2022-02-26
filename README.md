@@ -76,15 +76,20 @@ Planning to create a webpage for deployment of the model using ‘streamlit’. 
 - Following uniform notations for state names. Data has different cell values for state referring to same state. Ex: California, CA
 - Hence, mapped such redundencies to uniform notations. 
 ## Insights from the data
-Number of H-1B certified applications are increasing every year. In 2017, least number of H-1B applications were certified since Trump government implemented stringent immigration rules. The number of certified applications were almost same in the years 2019 and 2020. In the recent past, number of H-1B applications nearly doubled to that of 2017. With the given trend, we can come to the conclusion that number of certified cases will definitely increase leaps and bounds in the year 2022. Refer to the image below <br>
+<br>
+
+<b> Increasing H-1B approvals every year </b><br><br>
+Number of H-1B certified applications are increasing every year. In 2017, least number of H-1B applications were certified since Trump government implemented stringent immigration rules. The number of certified applications were almost same in the years 2019 and 2020. In the recent past, number of H-1B applications nearly doubled to that of 2017. With the given trend, we can come to the conclusion that number of certified cases will definitely increase leaps and bounds in the year 2022. Refer to the image below <br><br>
 ![image](https://user-images.githubusercontent.com/93351186/154819652-5ed94486-fd21-428c-b2ba-10ef9e8a7932.png)
-<br>
+<br><br>
+
+<b> Approval vs Denial every year</b><br><br>
 Plotted approvals vs denied from 2017 - 2021. Plotted subplots with multiple pie charts for every year. In the year 2018, highest number of H1B cases were denied. 1 out of every 4 application was denied. While 2018 was the year with highest denial rate, 2020 and 2021 have highest approval rate. It might be due to various reasons such as Presidential elections, change in government etc.  Refer to the image below 
-<br>
-
+<br><br>
 ![image](https://user-images.githubusercontent.com/93351186/154819766-bb03554a-1cc4-49f6-8d6b-0071dbdb009a.png)
+<br><br>
 
-<br>
+
 
 ## Next weeks
 - Find which states has highest number of approvals year-wise
