@@ -125,8 +125,8 @@ The data also includes countries of citizenship. Therefore, based upon this data
 ![image](https://user-images.githubusercontent.com/93351186/155848379-9e68dcd3-a500-4d6f-a78b-cd6280656804.png)
 <br><br>
 
-
-
+<u>Link to presentation:<br><br>
+https://github.com/rohithram23/TEAM_B_data606/blob/main/Presentations/Initial_Presentation.pptx
 
 
 
