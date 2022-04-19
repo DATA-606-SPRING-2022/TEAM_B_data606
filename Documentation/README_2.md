@@ -16,7 +16,7 @@ We have dropped unwanted columns like CASE_NUMBER and DECISION_DATE which aren't
 
   ![image](https://user-images.githubusercontent.com/93351186/164070872-bcc02265-58af-4ffa-bfd7-2174053a10b9.png)
 
-##Pearson Correlation
+## Pearson Correlation
 
 - Pearson correlation is a measure of how closely two sets of data are related. 
 - It depicts normalized covariance measurement, with the result always ranging between -1 and 1.
@@ -24,4 +24,5 @@ We have dropped unwanted columns like CASE_NUMBER and DECISION_DATE which aren't
 - Other attrinutes like Job experience, Job level etc have negative correlation.
 
   ![image](https://user-images.githubusercontent.com/93351186/164072839-8ef91976-e490-43f3-8968-8bdb06aba2a8.png)
+
 
