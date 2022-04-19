@@ -70,29 +70,37 @@ Multiple models have been implemented. However, top 3 best performing models are
 <table>
   <tr>
     <th>Model</th>
-    <th>Precision</th>
-    <th>Recall</th>
+    <th>Precision (Class 0)</th>
+    <th>Recall (Class 0)</th>
+    <th>Precision (Class 1)</th>
+    <th>Recall (Class 1)</th>
     <th>Accuracy</th>
   </tr>
   <tr>
     <td>Support Vector Machine</td>
-    <td><td>A</td><td>B</td></td>
-    <td>Recall</td>
-    <td>Accuracy</td>
+    <td>0.81</td>
+    <td>1.00</td>
+    <td>0.21</td>
+    <td>0.13</td>
+    <td>81.04%</td>
   </tr>
  
   <tr>
-    <td>Support Vector Machine</td>
-    <td></td>
-    <td>Recall</td>
-    <td>Accuracy</td>
+    <td>KNeighbors Classifier</td>
+    <td>0.84</td>
+    <td>0.95</td>
+    <td>0.48</td>
+    <td>0.22</td>
+    <td>80.70%</td>
   </tr>
   
   <tr>
-    <td>Support Vector Machine</td>
-    <td></td>
-    <td>Recall</td>
-    <td>Accuracy</td>
+    <td>Random Forest Classifier</td>
+    <td>0.85</td>
+    <td>0.96</td>
+    <td>0.62</td>
+    <td>0.51</td>
+    <td>83.10%</td>
   </tr>
   
 </table>
