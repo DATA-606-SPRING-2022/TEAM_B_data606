@@ -14,7 +14,7 @@ We have dropped unwanted columns like CASE_NUMBER and DECISION_DATE which aren't
 - All the columns in the updated dataframe are either integer or float types.
 - Hence, modelling can be easily performed without any hassles. 
 
-![image](https://user-images.githubusercontent.com/93351186/164070872-bcc02265-58af-4ffa-bfd7-2174053a10b9.png)
+  ![image](https://user-images.githubusercontent.com/93351186/164070872-bcc02265-58af-4ffa-bfd7-2174053a10b9.png)
 
 ##Pearson Correlation
 
@@ -23,5 +23,5 @@ We have dropped unwanted columns like CASE_NUMBER and DECISION_DATE which aren't
 - The image below shows that attributes like Country of citizenship, salary etc have positive correlation.
 - Other attrinutes like Job experience, Job level etc have negative correlation.
 
-![image](https://user-images.githubusercontent.com/93351186/164072839-8ef91976-e490-43f3-8968-8bdb06aba2a8.png)
+  ![image](https://user-images.githubusercontent.com/93351186/164072839-8ef91976-e490-43f3-8968-8bdb06aba2a8.png)
 
