@@ -25,4 +25,73 @@ We have dropped unwanted columns like CASE_NUMBER and DECISION_DATE which aren't
 
   ![image](https://user-images.githubusercontent.com/93351186/164072839-8ef91976-e490-43f3-8968-8bdb06aba2a8.png)
 
+## Train Test Split
+
+- The entire data has been divided into train and test data with the proportions of 70% and 30% respectively. 
+- Random shuffling has been enabled to ensure maximum possible variety of data in train and test sets. 
+- CASE_STATUS_I (indexed case status) is the target variable and hence been considered as data_y
+- All the remaining attributes are stored in data_x
+
+## Using Standard Scalar
+
+- Standard scalar scales down attributes to uniform thereby ensuring that the model handles bias well. 
+- H1B case status is random pick and hence, the possibility of outliers is very high. Scandard scalar handles outliers well. 
+- Training and testing data have been fit into standard scalar. 
+- New data is stored in x_train and x_test
+
+# Model implementation
+
+Multiple models have been implemented. However, top 3 best performing models are being documented. 
+
+## Support Vector Machine
+
+- Since H1B is a random pick, various features are considered in data modelling. 
+- Support Vector Machine is performed to reduce the number of features to a more manageable quantity.
+- SVM has given an accuracy score of 81.04%
+- The model was highly biased towards certified cases since recall score for class 0 (Certified cases) is much higher when compared to class 1 (Denied cases)
+
+## KNeighbors Classifier
+
+- KNN Classifier works well in making real time predictions. It is very important to scale all features to the same level. 
+- Hence, standard scalar technique has been implemented before hand while building a model with KNN.
+- <b>Grid Search</b> has been implemented for optimal parameter selection
+- KNN has given an accuracy score of 80.70%
+- Precision and recall scores for both classes are relatively better than SVM. 
+
+## Random Forest Classifier
+
+- Ensemble models perform better with data with high variance. It reduces overfitting of the data. 
+- Random Forest gave the best results with accuracy score of 83.01%. 
+- Precision and recall scores for both the classes are above 0.7. 
+- Hence, Random Forest Classifier is being used to deploy the machine learning model in streamlit. 
+
+# Results
+
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>Accuracy</th>
+  </tr>
+  <tr>
+    <td>Model</th>
+    <td>Precision</th>
+    <td>Recall</th>
+    <td>Accuracy</th>
+  </tr>
+  <tr>
+    <td>Model</th>
+    <td>Precision</th>
+    <td>Recall</th>
+    <td>Accuracy</th>
+  </tr>
+  <tr>
+    <td>Model</th>
+    <td>Precision</th>
+    <td>Recall</th>
+    <td>Accuracy</th>
+  </tr>
+</table>
+
 
