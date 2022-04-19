@@ -75,23 +75,26 @@ Multiple models have been implemented. However, top 3 best performing models are
     <th>Accuracy</th>
   </tr>
   <tr>
-    <td>Model</th>
-    <td>Precision</th>
-    <td>Recall</th>
-    <td>Accuracy</th>
+    <td>Support Vector Machine</td>
+    <td><td>A</td><td>B</td></td>
+    <td>Recall</td>
+    <td>Accuracy</td>
   </tr>
+ 
   <tr>
-    <td>Model</th>
-    <td>Precision</th>
-    <td>Recall</th>
-    <td>Accuracy</th>
+    <td>Support Vector Machine</td>
+    <td></td>
+    <td>Recall</td>
+    <td>Accuracy</td>
   </tr>
+  
   <tr>
-    <td>Model</th>
-    <td>Precision</th>
-    <td>Recall</th>
-    <td>Accuracy</th>
+    <td>Support Vector Machine</td>
+    <td></td>
+    <td>Recall</td>
+    <td>Accuracy</td>
   </tr>
+  
 </table>
 
 
