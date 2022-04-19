@@ -1,12 +1,12 @@
-#Machine Learning Phase
+# Machine Learning Phase
 
 In this phase, we are modelling the data to predict the target variable "CASE_STATUS". We have used various methodologies to achieve the required result. The data from EDA Phase 1 has been exported as a CSV file. The exported cleansed CSV file is used for modelling. 
 
-##Dropping unwanted columns
+## Dropping unwanted columns
 
 We have dropped unwanted columns like CASE_NUMBER and DECISION_DATE which aren't helpful in modelling. These features do not have any influence on the target variable. We also made sure that features which had personal information such as phone number, employee address etc are eliminated. Ethicality has been followed in data selection. 
 
-##Indexing Categorical Variables
+## Indexing Categorical Variables
 
 - The data contains many categorical columns such as EMPLOYER_NAME,EMPLOYER_STATE etc. 
 - Therefore, we converted all the categorical variables to integers using category codes. 
