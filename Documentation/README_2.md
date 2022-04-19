@@ -106,3 +106,4 @@ Multiple models have been implemented. However, top 3 best performing models are
 </table>
 
 
+<b> Random Forest Classifier is being deployed using streamlit since it is the best performing model </b>
