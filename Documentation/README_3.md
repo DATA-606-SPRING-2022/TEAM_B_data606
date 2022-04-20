@@ -20,6 +20,6 @@ The website has been develpoed in 2 phases into 2 seperate web pages. A user can
 - User has to enter the input details corresponding to his case. 
 - The web page displays if the case would be certified or denied based upon the inputs. 
 
-  ![image](https://user-images.githubusercontent.com/93356110/164126207-d7a79094-5c23-4c16-b792-642efe4d18ce.png)
-  ![image](https://user-images.githubusercontent.com/93356110/164342994-c9a1ab8a-f3e5-42b2-9742-a08665c428cc.png)
+  ![image](https://user-images.githubusercontent.com/93356110/164343079-3802ddd9-abb7-498f-af5d-3dcd5f4ac97f.png)
+
 
