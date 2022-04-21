@@ -79,7 +79,7 @@ Multiple models have been implemented. However, top 3 best performing models are
   <tr>
     <td>Support Vector Machine</td>
     <td>0.81</td>
-    <td>1.00</td>
+    <td>0.92</td>
     <td>0.21</td>
     <td>0.13</td>
     <td>81.04%</td>
