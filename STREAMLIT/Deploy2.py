@@ -202,19 +202,19 @@ else:
 
     if st.button("Predict!"):
         if in3==558:
-            st.success("Your H1B will be approved")
-            st.markdown("![Alt Text](https://content.presentermedia.com/content/animsp/00003000/3202/rubber_stamp_of_approval_300_wht.gif)")
-            st.markdown(
-            """
-            <style>
-            .reportview-container {
-                background: url("https://acegif.com/wp-content/gif/confetti-15.gif")
-            }
-           .
-            </style>
-            """,
-            unsafe_allow_html=True
-            )
+#             st.success("Your H1B will be approved")
+#             st.markdown("![Alt Text](https://content.presentermedia.com/content/animsp/00003000/3202/rubber_stamp_of_approval_300_wht.gif)")
+#             st.markdown(
+#             """
+#             <style>
+#             .reportview-container {
+#                 background: url("https://acegif.com/wp-content/gif/confetti-15.gif")
+#             }
+#            .
+#             </style>
+#             """,
+#             unsafe_allow_html=True
+#             )
         else:
             if y_pred==0:
                 st.success("Your H1B will be approved")
