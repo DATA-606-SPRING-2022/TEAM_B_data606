@@ -100,8 +100,8 @@ Multiple models have been implemented. However, top 3 best performing models are
     <td>Random Forest Classifier</td>
     <td>0.85</td>
     <td>0.96</td>
-    <td>0.62</td>
-    <td>0.51</td>
+    <td>0.72</td>
+    <td>0.67</td>
     <td>83.10%</td>
   </tr>
   
