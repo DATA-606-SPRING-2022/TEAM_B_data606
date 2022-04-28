@@ -55,6 +55,8 @@ Multiple models have been implemented. However, top 3 best performing models are
 - KNN Classifier works well in making real time predictions. It is very important to scale all features to the same level. 
 - Hence, standard scalar technique has been implemented before hand while building a model with KNN.
 - <b>Grid Search</b> has been implemented for optimal parameter selection
+  ![image](https://user-images.githubusercontent.com/93356110/165654886-26a012fb-d41f-407b-ac12-1e2db78db221.png)
+- Grid Search gave the optimal value of k to be 5.
 - KNN has given an accuracy score of 80.70%
 - Precision and recall scores for both classes are relatively better than SVM. 
 
