@@ -8,3 +8,9 @@ https://github.com/rohithram23/TEAM_B_data606/blob/main/Documentation/README_2.m
 
 README_3.md : Deployment Phase (Streamlit)
 https://github.com/rohithram23/TEAM_B_data606/blob/main/Documentation/README_3.md
+
+Final Project Presentation:
+https://youtu.be/lKAXNG4VckM
+
+Project Streamlit Demo:
+https://www.youtube.com/watch?v=Ojl8ZfMHClc
